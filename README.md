@@ -9,18 +9,25 @@ Result File.
 (1)app_info.xls   
 
 Sheet：family name
+
 column1: package name;
+
 column2: developer;
+
 column3: total down_num of stores;
+
 column4: app names it used before;
 
 (2)virustotal.xlsx
 
 column1:md5
+
 column2:engines who have labeled the app as malware
+
 column3:malware labels
 
 (3)avclass.xlsx
 
 column1:md5
+
 column2:malware family labeled by avclass
